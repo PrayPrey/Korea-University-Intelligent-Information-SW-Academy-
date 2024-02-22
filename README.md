@@ -30,7 +30,7 @@
 ### 검색 증강 생성(RAG)을 활용하였습니다
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/5d77dcc8-6653-49b0-bda0-7d55488b0cb6)
 
-## sLLM 학습 & Prompt 시도 (llama~~.ipynb)
+## sLLM 학습 & Prompt 시도 (llama~~~.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/99ca1e91-18f5-45db-98b9-7b89ae7b650d)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/198541f5-85ea-4d74-9c31-59a2924c5555)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/a47a2b5d-fa8c-483f-ad62-7381137b8b07)
