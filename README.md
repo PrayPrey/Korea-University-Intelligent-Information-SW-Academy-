@@ -37,7 +37,7 @@
 전체 학습을 시키다가 시간이 너무 많이 걸려서 (30000개 특허 데이터를 기반으로 학습 시 1epoch 당 17시간), 500개를 기반으로 10 epoch까지 학습시켰습니다.
 
 ## 외부 데이터베이스 생성(Chroma DB), 결과 인터페이스 (Streamlit)
-### 1218_VectorDB_Streamlit_3.ipynb
+### 1218_VectorDB_Streamlit_3.ipynb 코드 참조
 
 ## 결과
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/aa35e526-52bf-4436-b328-7caf6c1eb274)
