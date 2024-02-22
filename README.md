@@ -1,7 +1,7 @@
 # Korea-University-Intelligent-Information-SW-Academy-
 고려대학교 지능정보 SW 아카데미에서 수행한 프로젝트입니다.
 
-<br/> 
+
 
 # 특허 검색 시스템
 ## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
@@ -15,8 +15,11 @@
 ## 모델 (BERT_training_2.ipynb)
 
 
+
 ### 기존 모델
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/9a4e34a5-2194-4ca8-84f5-9c1366927506)
+
+
 
 
 ### 제안하는 모델 & 학습 과정
@@ -24,10 +27,13 @@
 
 
 
+
 ## 시스템
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/83a51ed0-b828-42c3-a034-5323d9ae5a60)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/ca46a272-ee87-49de-9dbd-cd136df253dc)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/bd9d873d-cbf4-4d2d-8d3e-6adc0c4f8e06)
+
+
 
 
 # 특허 특화 Chatbot
