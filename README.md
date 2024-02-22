@@ -5,8 +5,6 @@
 
 # 특허 검색 시스템
 <br/> 
-
-
 ## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/d1b64a9c-a45b-4203-9051-2f0971b01c2b)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/62a28eaa-ad06-42ef-838b-ee12b5e72ecf)
@@ -14,41 +12,45 @@
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/974ab05d-fa9a-42a2-8e4b-fdff6433e0c2)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/cef56800-ba71-4d4b-a87c-52dec5896453)
 
-
+<br/> 
 
 ## 모델 (BERT_training_2.ipynb)
+<br/> 
 ### 기존 모델
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/9a4e34a5-2194-4ca8-84f5-9c1366927506)
 ### 제안하는 모델 & 학습 과정
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/94a719cf-5c36-4a2c-b3e9-a1f7f4ae80b3)
-
+<br/> 
 ## 시스템
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/83a51ed0-b828-42c3-a034-5323d9ae5a60)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/ca46a272-ee87-49de-9dbd-cd136df253dc)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/bd9d873d-cbf4-4d2d-8d3e-6adc0c4f8e06)
 
-
+<br/> 
+<br/> 
 # 특허 특화 Chatbot
-
+<br/> 
 ## 기본 모델
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/06bca891-f248-4913-b72f-89353936ec20)
-
+<br/> 
+<br/> 
 ## 전체 시스템 
 ### 검색 증강 생성(RAG)을 활용하였습니다
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/5d77dcc8-6653-49b0-bda0-7d55488b0cb6)
-
+<br/> 
 ## sLLM 학습 & Prompt 시도 (llama~~~.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/99ca1e91-18f5-45db-98b9-7b89ae7b650d)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/198541f5-85ea-4d74-9c31-59a2924c5555)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/a47a2b5d-fa8c-483f-ad62-7381137b8b07)
 전체 학습을 시키다가 시간이 너무 많이 걸려서 (30000개 특허 데이터를 기반으로 학습 시 1epoch 당 17시간), 500개를 기반으로 10 epoch까지 학습시켰습니다.
-
+<br/> 
 ## 외부 데이터베이스 생성(Chroma DB), 결과 인터페이스 (Streamlit)
 ### 1218_VectorDB_Streamlit_3.ipynb 코드 참조
-
+<br/> 
 ## 결과
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/aa35e526-52bf-4436-b328-7caf6c1eb274)
-
+<br/> 
+<br/> 
 # Conclusion
 
 ## 특허 검색 시스템
