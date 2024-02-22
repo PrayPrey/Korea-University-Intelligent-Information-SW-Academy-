@@ -28,7 +28,7 @@
 
 
 
-> ## 시스템
+## 시스템
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/83a51ed0-b828-42c3-a034-5323d9ae5a60)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/ca46a272-ee87-49de-9dbd-cd136df253dc)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/bd9d873d-cbf4-4d2d-8d3e-6adc0c4f8e06)
