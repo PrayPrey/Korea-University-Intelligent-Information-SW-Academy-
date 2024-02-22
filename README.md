@@ -4,25 +4,25 @@
 
 
 # 특허 검색 시스템
-> ## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
+## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/d1b64a9c-a45b-4203-9051-2f0971b01c2b)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/62a28eaa-ad06-42ef-838b-ee12b5e72ecf)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/a1b56566-2c85-4dd6-86d9-a557ee0d9560)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/974ab05d-fa9a-42a2-8e4b-fdff6433e0c2)
-![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/cef56800-ba71-4d4b-a87c-52dec5896453)
+![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/cef56800-ba71-4d4b-a87c-52dec5896453)   
 
 
-> ## 모델 (BERT_training_2.ipynb)
-
-
-
->> ### 기존 모델
-![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/9a4e34a5-2194-4ca8-84f5-9c1366927506)
+## 모델 (BERT_training_2.ipynb)   
 
 
 
+### 기존 모델
+![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/9a4e34a5-2194-4ca8-84f5-9c1366927506)   
 
->> ### 제안하는 모델 & 학습 과정
+
+
+
+### 제안하는 모델 & 학습 과정
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/94a719cf-5c36-4a2c-b3e9-a1f7f4ae80b3)
 
 
