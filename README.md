@@ -3,12 +3,16 @@
 
 # 특허 검색 시스템
 
+
+
 ## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/d1b64a9c-a45b-4203-9051-2f0971b01c2b)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/62a28eaa-ad06-42ef-838b-ee12b5e72ecf)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/a1b56566-2c85-4dd6-86d9-a557ee0d9560)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/974ab05d-fa9a-42a2-8e4b-fdff6433e0c2)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/cef56800-ba71-4d4b-a87c-52dec5896453)
+
+
 
 ## 모델 (BERT_training_2.ipynb)
 ### 기존 모델
@@ -21,6 +25,7 @@
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/ca46a272-ee87-49de-9dbd-cd136df253dc)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/bd9d873d-cbf4-4d2d-8d3e-6adc0c4f8e06)
 
+<br/>
 # 특허 특화 Chatbot
 
 ## 기본 모델
