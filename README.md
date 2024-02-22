@@ -3,7 +3,7 @@
 
 # 특허 검색 시스템
 
-## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb, EDA_1.ipynb)
+## 데이터 전처리 & EDA (Crawling_1_상세.ipynb, Crawling_result_정리.ipynb)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/d1b64a9c-a45b-4203-9051-2f0971b01c2b)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/62a28eaa-ad06-42ef-838b-ee12b5e72ecf)
 ![image](https://github.com/PrayPrey/Korea-University-Intelligent-Information-SW-Academy-/assets/73458088/a1b56566-2c85-4dd6-86d9-a557ee0d9560)
